@@ -16,7 +16,18 @@ Network Built has:
 <br>
 Input layer, 1 Hidden layer and one node in the output layer (for predicting the count of riders).
 <br>The hidden layer has sigmoid activation function. There is no activation function in the output layer as we are predicting the count of bikes needed by the riders. 
-The model is trained on 5000 epochs using simple gradient descent.
+The model is trained on 5000 epochs using simple batch gradient descent.
+
+Markup: 1. Hyperparameters
+            1. Hidden nodes: 12
+            2. Output nodes: 1
+            3. Batch: 128
+            4. Iterations: 5000
+            5. Learning rate: 1
+        2. Results
+            1. Training loss: 0.239 
+            2. Validation loss: 0.415
+
 <br>
 <br>
 Dataset used : Bike Sharing Dataset [1] developed by Hadi Fanaee-T at Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
