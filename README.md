@@ -2,6 +2,8 @@
 
 This project work is a part of Udacity Deep learning Nano-degree.
 <br>
+### Task: To predict the how many bikes needed by the riders in the near future from the historical data. 
+<br>
 Implemented a simple neural network using NumPy.
 The network architecture is similar to the architecture in the below diagram
 
@@ -13,7 +15,7 @@ The network architecture is similar to the architecture in the below diagram
 Network Built has:
 <br>
 Input layer, 1 Hidden layer and one node in the output layer (for predicting the count of riders).
-The hidden layer has sigmoid activation function. There is no activation function in the output layer as we are predicting the count of riders. 
+<br>The hidden layer has sigmoid activation function. There is no activation function in the output layer as we are predicting the count of bikes needed by the riders. 
 The model is trained on 5000 epochs using simple gradient descent.
 <br>
 <br>
