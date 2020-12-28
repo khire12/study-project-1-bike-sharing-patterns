@@ -6,7 +6,7 @@ Implemented a simple neural network using NumPy.
 The network architecture is similar to the architecture in the below diagram
 ![](/first_neural_network/assets/neural_network.png)
 <p>
-<img src="/first_neural_network/assets/neural_network.png" height="100" width="100">
+<img src="/first_neural_network/assets/neural_network.png" height="200" width="300">
 </p>
   
 
