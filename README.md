@@ -1,8 +1,11 @@
-# study-project-1-bike-sharing-patterns
+#Study-project-1-bike-sharing-patterns
 
 This project work is a part of Udacity Deep learning Nano-degree.
 <br>
 Implemented a simple neural network using NumPy.
+Network Built has:
+<br>
+Input layer, 1 Hidden layer and one node in the output layer.
 <br>
 Dataset used : Bike Sharing Dataset [1] developed by Hadi Fanaee-T at Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto
 <br><br>
