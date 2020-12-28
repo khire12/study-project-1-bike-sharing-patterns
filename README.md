@@ -5,6 +5,11 @@ This project work is a part of Udacity Deep learning Nano-degree.
 Implemented a simple neural network using NumPy.
 The network architecture is similar to the architecture in the below diagram
 ![](/first_neural_network/assets/neural_network.png)
+<p>
+<img src="/first_neural_network/assets/neural_network.png" height="24" width="48">
+</p>
+  
+
 Network Built has:
 <br>
 Input layer, 1 Hidden layer and one node in the output layer (for predicting the count of riders).
