@@ -5,8 +5,8 @@ This project work is a part of Udacity Deep learning Nano-degree.
 Implemented a simple neural network using NumPy.
 The network architecture is similar to the architecture in the below diagram
 
-<p>
-<img  align="center" src="/first_neural_network/assets/neural_network.png" height="300" width="350">
+<p align="center">
+<img src="/first_neural_network/assets/neural_network.png" height="300" width="350">
 </p>
   
 
